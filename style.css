@@ -219,6 +219,8 @@ div.footer2 > a:hover {
         padding: 8px 50px;
     }
     .fa-search {
+        width: 35px;
+        height: 34px;
         text-align: right;
         padding: 10px;
         top: 17.591rem;
@@ -283,6 +285,7 @@ div.footer2 > a:hover {
         width: 300px;
     }
     .fa-search {
+        width: 34px;
         left: 17.3rem;
     }
     div.links {
